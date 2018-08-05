@@ -1,0 +1,33 @@
+*{
+    background-color: #E5C9EB;
+    text-align: center;
+    color: black;
+}
+.rowfooter{
+    font-family: 'Cinzel', serif;
+    font-size: 30px ;
+    display: flex;
+    justify-content:space-around; 
+}
+.rowmid{
+    display: flex;
+    justify-content: space-around;
+    height: 250px;
+    margin-bottom: 20px;
+}
+#clouds{
+    width: 100%;
+}
+h1{
+
+}
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+    border: solid 10px;
+}

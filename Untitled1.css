@@ -1,0 +1,48 @@
+*{
+    background-color: #ffeeff ;
+    color: black;
+}
+h1{
+    font-family: 'Great Vibes', cursive;
+    color: #ccccdd;
+}
+p{
+    font-family: 'Dancing Script', cursive;
+}
+#clouds{
+    width: 1300px;
+    height: 700px;
+}
+
+
+
+.rowfooter{
+    display: flex;
+    justify-content: space-between;
+}
+.rowmid{
+    text-align: center;
+}
+
+
+.row{   
+
+    background-color:black;
+    color:white;
+    font-size:20px;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
